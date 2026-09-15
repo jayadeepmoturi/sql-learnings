@@ -1,0 +1,641 @@
+State,Literacy
+ Maharashtra,84.53
+ West Bengal,84.06
+ Karnataka,87.67
+ Maharashtra,86.15
+ Maharashtra,89.91
+ West Bengal,77.51
+ West Bengal,76.21
+ Gujarat,85.31
+ West Bengal,66.59
+ Rajasthan,75.51
+ Maharashtra,82.31
+ Gujarat,85.53
+ Uttar Pradesh,72.32
+ West Bengal,78.0
+ Bihar,70.68
+ West Bengal,81.8
+ Andhra Pradesh,75.87
+ West Bengal,74.97
+ Andhra Pradesh,70.99
+ Bihar,55.79
+ West Bengal,87.02
+ Andhra Pradesh,67.4
+ West Bengal,83.31
+ Bihar,63.43
+ Karnataka,73.48
+ Uttar Pradesh,56.77
+ Uttar Pradesh,78.07
+ Maharashtra,88.39
+ Tamil Nadu,90.18
+ Uttar Pradesh,70.93
+ Uttar Pradesh,77.29
+ Uttar Pradesh,79.65
+ Maharashtra,79.05
+ Andhra Pradesh,73.74
+ West Bengal,86.31
+ Uttar Pradesh,71.55
+ Bihar,58.62
+ Uttar Pradesh,61.12
+ Uttar Pradesh,58.49
+ Uttar Pradesh,70.83
+ Uttar Pradesh,71.58
+ Bihar,63.67
+ Maharashtra,77.02
+ Andhra Pradesh,66.91
+ Bihar,61.86
+ Maharashtra,78.2
+ Andhra Pradesh,71.53
+ Gujarat,78.92
+ Uttar Pradesh,69.12
+ Kerala,93.57
+ Uttar Pradesh,64.57
+ Andhra Pradesh,63.57
+ Chhattisgarh,75.56
+ Andhra Pradesh,59.97
+ Andhra Pradesh,55.04
+ Uttar Pradesh,60.56
+ Tamil Nadu,84.49
+ West Bengal,61.73
+ Bihar,65.96
+ Andhra Pradesh,83.25
+ Bihar,56.56
+ Andhra Pradesh,74.63
+ Tamil Nadu,79.17
+ Bihar,55.7
+ Maharashtra,81.51
+ West Bengal,73.25
+ Gujarat,80.96
+ Uttar Pradesh,69.27
+ Andhra Pradesh,64.15
+ Tamil Nadu,84.03
+ Maharashtra,79.02
+ Rajasthan,65.94
+ Uttar Pradesh,68.48
+ Uttar Pradesh,51.29
+ Uttar Pradesh,75.6
+ Rajasthan,70.72
+ Uttar Pradesh,67.52
+ Delhi,84.45
+ Uttar Pradesh,71.78
+ West Bengal,70.26
+ Uttar Pradesh,65.25
+ Orissa,71.09
+ Andhra Pradesh,65.11
+ West Bengal,70.68
+ Uttar Pradesh,68.88
+ Punjab,82.2
+ Bihar,66.6
+ Andhra Pradesh,64.2
+ Uttar Pradesh,49.36
+ Tamil Nadu,72.86
+ Uttar Pradesh,70.49
+ Tamil Nadu,71.88
+ Tamil Nadu,83.98
+ Uttar Pradesh,72.84
+ Uttar Pradesh,58.71
+ Bihar,52.05
+ Uttar Pradesh,67.25
+ Andhra Pradesh,63.08
+ Maharashtra,75.45
+ Chhattisgarh,79.06
+ Bihar,69.45
+ Rajasthan,62.8
+ Kerala,93.02
+ Kerala,95.89
+ Madhya Pradesh,80.87
+ Bihar,51.08
+ Uttar Pradesh,61.75
+ Uttar Pradesh,70.94
+ Uttar Pradesh,70.09
+ Kerala,95.08
+ Gujarat,65.32
+ Uttar Pradesh,66.37
+ Uttar Pradesh,71.13
+ Kerala,95.08
+ Maharashtra,89.21
+ Tamil Nadu,82.5
+ Bihar,52.24
+ Rajasthan,61.82
+ Tamil Nadu,83.45
+ Bihar,63.14
+ Andhra Pradesh,61.42
+ West Bengal,59.07
+ Uttar Pradesh,59.54
+ Maharashtra,82.87
+ Karnataka,72.79
+ Bihar,63.87
+ Andhra Pradesh,68.9
+ Bihar,73.37
+ West Bengal,64.48
+ Jharkhand,76.06
+ Maharashtra,87.38
+ Andhra Pradesh,67.3
+ Gujarat,75.52
+ Bihar,64.43
+ Assam,72.37
+ Maharashtra,81.48
+ West Bengal,74.78
+ Bihar,53.53
+ Kerala,89.31
+ Andhra Pradesh,64.81
+ Maharashtra,82.82
+ Gujarat,75.8
+ Andhra Pradesh,61.01
+ Delhi,86.57
+ Bihar,70.47
+ Tamil Nadu,83.23
+ Andhra Pradesh,61.74
+ Uttar Pradesh,62.76
+ Jharkhand,74.52
+ Karnataka,75.14
+ Rajasthan,71.91
+ Chhattisgarh,70.78
+ Kerala,94.09
+ Maharashtra,83.14
+ Uttar Pradesh,67.43
+ Orissa,85.5
+ Tamil Nadu,78.04
+ Rajasthan,56.53
+ Maharashtra,83.4
+ Maharashtra,76.99
+ Rajasthan,69.33
+ Karnataka,64.85
+ Bihar,65.47
+ Uttar Pradesh,59.25
+ Andhra Pradesh,61.25
+ Rajasthan,70.11
+ Uttar Pradesh,70.36
+ Delhi,86.98
+ Bihar,70.32
+ Kerala,95.1
+ Orissa,63.17
+ Uttar Pradesh,71.92
+ Uttar Pradesh,68.48
+ Punjab,76.27
+ Tamil Nadu,78.68
+ Uttar Pradesh,68.73
+ Tamil Nadu,74.21
+ Uttar Pradesh,67.22
+ Madhya Pradesh,81.07
+ Maharashtra,77.26
+ Karnataka,67.43
+ Jharkhand,63.14
+ Gujarat,75.79
+ Rajasthan,61.37
+ Tamil Nadu,82.64
+ Uttar Pradesh,72.23
+ Gujarat,70.99
+ Madhya Pradesh,76.46
+ Madhya Pradesh,80.37
+ Madhya Pradesh,71.62
+ Rajasthan,65.13
+ Chhattisgarh,60.01
+ Andhra Pradesh,58.89
+ Uttar Pradesh,53.34
+ Orissa,79.79
+ Gujarat,82.65
+ Punjab,79.95
+ Jharkhand,75.49
+ Delhi,88.28
+ Tamil Nadu,72.58
+ Orissa,86.88
+ Delhi,83.09
+ Bihar,57.67
+ Madhya Pradesh,72.26
+ Bihar,59.76
+ Uttar Pradesh,73.09
+ Maharashtra,80.01
+ Punjab,82.48
+ Madhya Pradesh,59.0
+ Karnataka,67.15
+ Gujarat,73.65
+ Tamil Nadu,76.26
+ Uttar Pradesh,49.51
+ Rajasthan,74.13
+ Kerala,95.72
+ Gujarat,58.82
+ Orissa,73.34
+ Gujarat,84.37
+ Gujarat,70.59
+ Madhya Pradesh,71.16
+ Karnataka,88.57
+ Jharkhand,72.01
+ Maharashtra,72.8
+ Rajasthan,66.75
+ Rajasthan,62.39
+ Gujarat,83.61
+ Bihar,58.17
+ Madhya Pradesh,76.65
+ Uttar Pradesh,61.47
+ Punjab,68.92
+ Bihar,52.25
+ Uttar Pradesh,75.05
+ Madhya Pradesh,72.34
+ Kerala,97.21
+ Rajasthan,69.64
+ Madhya Pradesh,71.03
+ Maharashtra,71.52
+ Uttar Pradesh,71.48
+ Rajasthan,76.56
+ Assam,58.34
+ Karnataka,75.74
+ Tamil Nadu,80.15
+ Jharkhand,63.63
+ Karnataka,59.56
+ Assam,67.34
+ Bihar,53.2
+ Punjab,75.28
+ Uttarakhand,73.43
+ Karnataka,68.82
+ Uttar Pradesh,69.04
+ Tamil Nadu,71.46
+ Madhya Pradesh,62.7
+ Tamil Nadu,91.75
+ Uttar Pradesh,75.99
+ Uttar Pradesh,64.03
+ Karnataka,80.0
+ West Bengal,79.56
+ Uttar Pradesh,63.84
+ Maharashtra,73.34
+ Rajasthan,54.86
+ Orissa,80.13
+ Maharashtra,88.05
+ Haryana,81.7
+ Karnataka,70.4
+ Orissa,68.24
+ Uttar Pradesh,66.67
+ Rajasthan,56.33
+ Uttar Pradesh,75.78
+ Karnataka,76.07
+ Rajasthan,67.13
+ Uttar Pradesh,70.81
+ Madhya Pradesh,63.74
+ Bihar,59.79
+ Gujarat,72.13
+ Karnataka,80.45
+ Tamil Nadu,86.16
+ Haryana,72.89
+ Assam,79.34
+ Jharkhand,69.75
+ Tamil Nadu,74.63
+ Madhya Pradesh,62.55
+ Tripura,88.69
+ Uttar Pradesh,66.72
+ Delhi,89.31
+ Bihar,70.14
+ Gujarat,78.55
+ Karnataka,70.51
+ Madhya Pradesh,75.26
+ Madhya Pradesh,77.09
+ Orissa,84.67
+ Uttarakhand,84.25
+ Assam,63.81
+ Bihar,55.46
+ Uttar Pradesh,73.75
+ West Bengal,72.82
+ Bihar,57.92
+ Karnataka,73.71
+ Maharashtra,78.44
+ Uttar Pradesh,72.7
+ Punjab,67.99
+ Orissa,64.72
+ Uttarakhand,73.1
+ Maharashtra,64.38
+ Uttar Pradesh,80.12
+ Haryana,75.21
+ Rajasthan,68.16
+ Bihar,69.34
+ Chhattisgarh,73.07
+ Tamil Nadu,77.19
+ Tamil Nadu,83.59
+ Maharashtra,82.18
+ Uttar Pradesh,61.28
+ Karnataka,77.4
+ Punjab,84.59
+ Uttar Pradesh,78.41
+ Uttar Pradesh,68.97
+ Orissa,59.22
+ Madhya Pradesh,68.9
+ Uttar Pradesh,71.59
+ Madhya Pradesh,69.35
+ Gujarat,81.51
+ Madhya Pradesh,61.21
+ Rajasthan,61.71
+ Chhattisgarh,75.96
+ Karnataka,74.39
+ Jammu and Kashmir,83.45
+ Assam,75.55
+ Haryana,84.7
+ Gujarat,74.25
+ Madhya Pradesh,69.09
+ Himachal Pradesh,85.67
+ Tamil Nadu,68.54
+ Orissa,82.78
+ Haryana,74.73
+ Jharkhand,58.63
+ Chhattisgarh,73.26
+ Jharkhand,64.85
+ Orissa,74.62
+ Madhya Pradesh,70.53
+ Rajasthan,66.22
+ Madhya Pradesh,66.78
+ Haryana,79.12
+ Madhya Pradesh,61.43
+ Orissa,85.15
+ Karnataka,84.06
+ Uttar Pradesh,61.02
+ Rajasthan,61.58
+ Chhattisgarh,54.4
+ Rajasthan,61.5
+ Gujarat,84.16
+ Karnataka,68.09
+ Rajasthan,59.46
+ Punjab,68.28
+ Madhya Pradesh,49.08
+ Orissa,49.21
+ Uttar Pradesh,78.95
+ Madhya Pradesh,72.12
+ Bihar,70.46
+ Tamil Nadu,80.72
+ Gujarat,72.3
+ Madhya Pradesh,71.78
+ Tamil Nadu,79.85
+ Rajasthan,65.39
+ Haryana,71.44
+ Madhya Pradesh,72.98
+ Gujarat,83.88
+ Assam,69.66
+ Assam,76.05
+ Jharkhand,60.33
+ Maharashtra,84.95
+ Jharkhand,61.02
+ Jharkhand,56.4
+ Madhya Pradesh,70.06
+ Madhya Pradesh,66.39
+ Kerala,90.09
+ Uttar Pradesh,72.01
+ Maharashtra,86.99
+ Haryana,68.82
+ Madhya Pradesh,71.98
+ Orissa,77.53
+ Tamil Nadu,82.86
+ Madhya Pradesh,69.73
+ Karnataka,69.76
+ Assam,88.71
+ Tamil Nadu,77.26
+ Madhya Pradesh,63.23
+ Madhya Pradesh,75.29
+ Jammu and Kashmir,69.41
+ Assam,78.22
+ Rajasthan,66.66
+ Uttar Pradesh,63.52
+ Orissa,46.43
+ Haryana,77.99
+ Chhattisgarh,72.37
+ Rajasthan,69.08
+ Haryana,75.94
+ Maharashtra,83.76
+ Kerala,96.55
+ Maharashtra,83.25
+ Orissa,78.76
+ Madhya Pradesh,60.41
+ Karnataka,86.24
+ Maharashtra,78.17
+ Karnataka,51.83
+ Rajasthan,63.14
+ Assam,80.41
+ Jharkhand,52.04
+ Karnataka,79.25
+ Orissa,86.59
+ Haryana,81.75
+ Madhya Pradesh,64.43
+ Bihar,66.8
+ Punjab,67.81
+ Uttar Pradesh,46.74
+ Rajasthan,61.52
+ Kerala,91.99
+ Uttar Pradesh,68.77
+ Assam,82.15
+ Madhya Pradesh,75.69
+ Haryana,54.08
+ Karnataka,69.22
+ Jammu and Kashmir,62.69
+ Haryana,69.15
+ Maharashtra,74.36
+ Assam,77.43
+ Madhya Pradesh,66.67
+ Jharkhand,67.7
+ Karnataka,75.12
+ Tamil Nadu,75.6
+ Haryana,80.22
+ Chandigarh,86.05
+ Madhya Pradesh,66.87
+ Jharkhand,60.18
+ Haryana,69.32
+ Assam,77.2
+ Orissa,76.22
+ Rajasthan,55.25
+ Chhattisgarh,71.02
+ Jharkhand,65.73
+ Madhya Pradesh,43.3
+ Karnataka,61.43
+ Madhya Pradesh,64.79
+ Assam,67.37
+ Jammu and Kashmir,64.63
+ Bihar,62.42
+ Himachal Pradesh,81.53
+ Punjab,70.68
+ Punjab,83.8
+ Uttar Pradesh,65.05
+ Karnataka,77.93
+ Orissa,49.76
+ Haryana,76.31
+ Orissa,80.42
+ Haryana,80.65
+ Assam,68.03
+ Assam,69.25
+ Uttarakhand,83.88
+ Puducherry,85.44
+ Assam,69.25
+ Jharkhand,73.17
+ Haryana,67.92
+ Assam,63.08
+ Haryana,77.72
+ Punjab,65.81
+ Jharkhand,48.82
+ Haryana,80.99
+ Delhi,86.85
+ Assam,65.22
+ Tripura,84.66
+ Uttar Pradesh,65.27
+ Jammu and Kashmir,64.51
+ Rajasthan,55.97
+ Chhattisgarh,67.92
+ Maharashtra,85.56
+ Madhya Pradesh,66.42
+ Assam,65.41
+ Madhya Pradesh,70.8
+ Meghalaya,84.15
+ Chhattisgarh,60.85
+ Goa,89.57
+ Kerala,89.03
+ Punjab,79.07
+ Himachal Pradesh,83.64
+ Gujarat,68.26
+ Chhattisgarh,78.36
+ Jharkhand,64.59
+ Madhya Pradesh,72.63
+ Assam,78.63
+ Punjab,61.83
+ Madhya Pradesh,64.36
+ Tamil Nadu,71.34
+ Jammu and Kashmir,56.08
+ Madhya Pradesh,67.88
+ Chhattisgarh,70.29
+ Assam,69.74
+ Tamil Nadu,85.2
+ Orissa,64.13
+ Madhya Pradesh,36.1
+ Jharkhand,59.51
+ Jharkhand,66.84
+ Madhya Pradesh,63.9
+ Bihar,67.43
+ Tripura,87.5
+ Madhya Pradesh,57.43
+ Uttarakhand,82.02
+ Assam,72.7
+ Punjab,82.19
+ Rajasthan,57.22
+ Assam,74.33
+ Chhattisgarh,70.64
+ Bihar,53.78
+ Madhya Pradesh,65.89
+ Meghalaya,67.58
+ Jammu and Kashmir,68.17
+ Goa,87.59
+ Bihar,63.86
+ Uttarakhand,80.47
+ Uttarakhand,76.36
+ Punjab,69.55
+ Jammu and Kashmir,73.09
+ Orissa,48.54
+ Punjab,79.78
+ Orissa,57.35
+ Orissa,74.42
+ Punjab,79.35
+ Jharkhand,67.99
+ Punjab,67.82
+ Gujarat,72.31
+ Gujarat,75.78
+ Delhi,85.14
+ Himachal Pradesh,83.68
+ Orissa,78.86
+ Orissa,53.49
+ Madhya Pradesh,72.5
+ Tamil Nadu,74.32
+ Haryana,81.88
+ Jammu and Kashmir,63.48
+ Jammu and Kashmir,68.49
+ Karnataka,82.61
+ Chhattisgarh,42.12
+ Jharkhand,63.86
+ Himachal Pradesh,78.8
+ Himachal Pradesh,86.53
+ Himachal Pradesh,72.17
+ Manipur,86.08
+ Uttarakhand,82.25
+ Assam,63.55
+ Manipur,63.6
+ Jammu and Kashmir,66.74
+ Jharkhand,67.61
+ Manipur,81.95
+ Himachal Pradesh,88.15
+ Orissa,71.61
+ Himachal Pradesh,79.4
+ Jammu and Kashmir,59.23
+ Manipur,74.47
+ Jammu and Kashmir,64.68
+ Mizoram,97.89
+ Meghalaya,61.64
+ Jammu and Kashmir,56.28
+ Uttarakhand,82.65
+ Meghalaya,77.87
+ Himachal Pradesh,84.59
+ Nagaland,84.79
+ Tripura,85.72
+ Dadra and Nagar Haveli,76.24
+ Uttarakhand,75.81
+ Jammu and Kashmir,81.41
+ Meghalaya,73.95
+ Jammu and Kashmir,58.15
+ Orissa,72.57
+ Jammu and Kashmir,58.04
+ Jammu and Kashmir,54.27
+ Sikkim,83.85
+ Manipur,82.78
+ Nagaland,85.23
+ Jammu and Kashmir,60.76
+ Uttarakhand,80.01
+ Uttarakhand,79.83
+ Meghalaya,75.67
+ Chhattisgarh,40.86
+ Nagaland,56.99
+ Uttarakhand,81.3
+ Andaman And Nicobar Islands,89.13
+ Manipur,75.85
+ Jammu and Kashmir,56.2
+ Gujarat,75.16
+ Assam,77.54
+ Puducherry,87.05
+ Nagaland,73.08
+ Nagaland,91.62
+ Daman and Diu,88.07
+ Manipur,81.35
+ Arunachal Pradesh,79.95
+ Nagaland,87.69
+ Nagaland,78.05
+ Mizoram,88.86
+ Arunachal Pradesh,59.8
+ Sikkim,81.42
+ Arunachal Pradesh,68.18
+ Manipur,71.11
+ Meghalaya,71.72
+ Delhi,88.34
+ Jammu and Kashmir,71.34
+ Nagaland,85.26
+ Manipur,70.05
+ Chhattisgarh,48.62
+ Sikkim,77.39
+ Jammu and Kashmir,77.2
+ Mizoram,95.91
+ Mizoram,65.88
+ Arunachal Pradesh,66.46
+ Arunachal Pradesh,52.19
+ Andaman And Nicobar Islands,83.91
+ Arunachal Pradesh,72.54
+ Nagaland,77.95
+ Arunachal Pradesh,48.75
+ Mizoram,84.93
+ Himachal Pradesh,80.0
+ Mizoram,93.5
+ Arunachal Pradesh,67.07
+ Arunachal Pradesh,63.8
+ Arunachal Pradesh,74.35
+ Arunachal Pradesh,60.02
+ Nagaland,69.54
+ Mizoram,97.91
+ Lakshadweep,91.85
+ Mizoram,90.01
+ Puducherry,79.47
+ Arunachal Pradesh,69.13
+ Daman and Diu,83.46
+ Nagaland,72.17
+ Arunachal Pradesh,59.0
+ Sikkim,78.01
+ Puducherry,97.87
+ Andaman And Nicobar Islands,78.06
+ Arunachal Pradesh,59.99
+ Himachal Pradesh,76.81
+ Arunachal Pradesh,56.46
+ Arunachal Pradesh,64.1
